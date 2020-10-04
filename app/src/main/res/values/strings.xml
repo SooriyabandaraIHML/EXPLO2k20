@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Explo2k20</string>
+    <string name="Desciption">Enter Description</string>
+    <string name="caption">Caption</string>
+    <string name="name">Location name</string>
+    <string name="descrip">"Enter description "</string>
+    <string name="Bvh1">VIEW HOTELS</string>
+    <string name="Bah2">ADD</string>
+    <string name="TxtHName">Hotel Name</string>
+    <string name="TxtHAddress">Address</string>
+    <string name="TxtHPhone">Phone Number</string>
+    <string name="TxtHEmail">Reservasion Email</string>
+    <string name="Bs1">Save</string>
+    <string name="Bu2">Update</string>
+    <string name="bb3">Back</string>
+    <string name="bd4">Delete</string>
+    <string name="bsh5">Show</string>
+
+</resources>
